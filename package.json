@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/psycho376/github-bot)"
+    "url": "(https://github.com/sl0w3y/GitHub_Graph)"
   },
-  "author": "Rohit Aggarwal",
+  "author": "SloWey",
   "license": "ISC",
   "dependencies": {
     "core-util-is": "^1.0.2",
